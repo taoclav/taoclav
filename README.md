@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @taoclav
+- 👀 I’m interested in python adn c++ or c#
+- 🌱 I’m currently learning c++ c# and python
