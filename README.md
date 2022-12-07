@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @taoclav
-- 👀 I’m interested in python and c++ or c#
-- 🌱 I’m currently learning c++ c# and python
+
